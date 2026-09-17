@@ -26,16 +26,7 @@ My personal corner of the internet — a Wii-inspired website where I share proj
 
 `JavaScript` · `Node.js` · `Supabase` · `Vercel` · `Last.fm API`
 
-<div align="left">
-
-<a href="https://malco-guerreiro.vercel.app/">
-  <img src="https://img.shields.io/badge/visit%20Malco's%20Corner-39D353?style=for-the-badge&logo=vercel&logoColor=0D1117" />
-</a>
-<a href="https://github.com/MalcoGuerreiro/malcos-corner">
-  <img src="https://img.shields.io/badge/source%20code-21262D?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
+[Live site](https://malco-guerreiro.vercel.app/) · [Repository](https://github.com/MalcoGuerreiro/malcos-corner)
 
 ## 🧰 toolbox
 
@@ -62,10 +53,10 @@ My personal corner of the internet — a Wii-inspired website where I share proj
 <div align="center">
 
 <a href="https://github.com/MalcoGuerreiro">
-  <img src="https://img.shields.io/badge/GitHub-MalcoGuerreiro-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/malco-guerreiro-b932b2402/">
-  <img src="https://img.shields.io/badge/LinkedIn-Malco%20Guerreiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
