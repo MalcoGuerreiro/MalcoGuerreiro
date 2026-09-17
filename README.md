@@ -4,10 +4,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=800&size=36&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there!+%F0%9F%91%8B;I%27m+Malco+Guerreiro;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </a>
 
-<h3>Computer Engineering student from Belém, Brazil.</h3>
+<h3>Computer Engineering student at CESUPA, from Brazil.</h3>
 
 <p>
-Interested in software development, game development, data science & engineering, and web development.
+I'm still figuring out what kind of developer I want to become, while trying to make code feel less like homework and more like something personal.
+</p>
+
+<p>
+Outside code, I'm into music, games, cars and a lot of random things that keep life interesting.
 </p>
 
 </div>
