@@ -26,7 +26,7 @@ My personal corner of the internet — a Wii-inspired website where I share proj
 
 `JavaScript` · `Node.js` · `Supabase` · `Vercel` · `Last.fm API`
 
-[Live site](https://malco-guerreiro.vercel.app/) · [Repository](https://github.com/MalcoGuerreiro/malcos-corner)
+[Malco's Corner](https://malco-guerreiro.vercel.app/) · [Repository](https://github.com/MalcoGuerreiro/malcos-corner)
 
 ## 🧰 toolbox
 
@@ -57,6 +57,9 @@ My personal corner of the internet — a Wii-inspired website where I share proj
 </a>
 <a href="https://www.linkedin.com/in/malco-guerreiro-b932b2402/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://malco-guerreiro.vercel.app/">
+  <img src="https://img.shields.io/badge/Malco's%20Corner-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </div>
