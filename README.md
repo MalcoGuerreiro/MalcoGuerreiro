@@ -48,7 +48,7 @@ My personal corner of the internet — a Wii-inspired website where I share proj
 
 </div>
 
-## 📬 how to reach me
+## 🌐 socials
 
 <div align="center">
 
@@ -57,6 +57,9 @@ My personal corner of the internet — a Wii-inspired website where I share proj
 </a>
 <a href="https://www.linkedin.com/in/malco-guerreiro-b932b2402/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/malcoguerreiro/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://malco-guerreiro.vercel.app/">
   <img src="https://img.shields.io/badge/Malco's%20Corner-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
