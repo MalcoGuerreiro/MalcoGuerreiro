@@ -1,17 +1,19 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=800&size=36&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=650&lines=Hi+there!+%F0%9F%91%8B;I%27m+Malco+Guerreiro;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=Hi+there!+%F0%9F%91%8B;I%27m+Malco+Guerreiro;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </a>
 
+<br>
+
 <a href="https://github.com/MalcoGuerreiro">
-  <img src="https://img.shields.io/badge/GitHub-21262D?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-MalcoGuerreiro-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/malco-guerreiro-b932b2402/">
-  <img src="https://img.shields.io/badge/LinkedIn-21262D?style=flat-square&logo=linkedin&logoColor=39D353" />
+  <img src="https://img.shields.io/badge/LinkedIn-Malco%20Guerreiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://malco-guerreiro.vercel.app/">
-  <img src="https://img.shields.io/badge/Malco's%20Corner-21262D?style=flat-square&logo=vercel&logoColor=39D353" />
+  <img src="https://img.shields.io/badge/Malco's%20Corner-39D353?style=for-the-badge&logo=vercel&logoColor=0D1117" />
 </a>
 
 </div>
